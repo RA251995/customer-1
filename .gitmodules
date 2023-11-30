@@ -1,0 +1,8 @@
+[submodule "feature-3"]
+	path = feature-3
+	url = https://github.com/RA251995/core-repo.git
+	branch = feature-3
+[submodule "feature-4"]
+	path = feature-4
+	url = https://github.com/RA251995/core-repo.git
+	branch = feature-4
